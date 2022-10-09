@@ -1,0 +1,2 @@
+D:/phd/k科研/软件开发/postulation_pakage/gp-setup.exe filter=lfs diff=lfs merge=lfs -text
+gp-setup.exe filter=lfs diff=lfs merge=lfs -text
